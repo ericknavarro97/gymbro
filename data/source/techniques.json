@@ -1,0 +1,58 @@
+[
+  {
+    "key": "long_length_partials",
+    "name": "Long-length Partials",
+    "nameEs": "Parciales en posición estirada",
+    "scope": "last_set",
+    "descriptionEs": "Se aplica en todas las repeticiones de la última serie. Cuando ya no puedas completar el rango completo, sigue haciendo repeticiones parciales en la mitad estirada del movimiento (la parte más baja o de mayor estiramiento) hasta llegar al fallo. Así acumulas más trabajo justo en la posición donde el músculo está más elongado."
+  },
+  {
+    "key": "myo_reps",
+    "name": "Myo-reps",
+    "nameEs": "Myo-reps",
+    "scope": "last_set",
+    "descriptionEs": "En la última serie, llega a las repeticiones objetivo cerca del fallo, descansa solo unas cuantas respiraciones (unos 5 segundos) y haz mini-series de pocas repeticiones con el mismo peso. Repite el ciclo hasta que ya no puedas completar la mini-serie. Es una forma de sumar repeticiones efectivas en muy poco tiempo."
+  },
+  {
+    "key": "dropset",
+    "name": "Dropset",
+    "nameEs": "Serie descendente (dropset)",
+    "scope": "last_set",
+    "descriptionEs": "Al terminar la última serie, reduce el peso aproximadamente un 25-50% sin descansar y continúa con más repeticiones hasta llegar de nuevo cerca del fallo. Prepara el cambio de peso con antelación (pines, mancuernas o placas) para que la transición sea inmediata."
+  },
+  {
+    "key": "mechanical_dropset",
+    "name": "Mechanical Dropset",
+    "nameEs": "Dropset mecánico",
+    "scope": "all_sets",
+    "descriptionEs": "Se usa en todas las series. En lugar de bajar el peso, cambias la posición para hacer el ejercicio más fácil sin descansar: por ejemplo, en el vuelo inverso en polea haces 5 repeticiones a unos 3 pasos de la máquina, das un paso al frente y haces 4 más, y otro paso al frente para al menos 3 más (o hasta RPE 9-10)."
+  },
+  {
+    "key": "integrated_partials",
+    "name": "Integrated Partials",
+    "nameEs": "Parciales integradas",
+    "scope": "all_sets",
+    "descriptionEs": "Se usa en todas las series. Alterna una repetición de rango completo con una repetición de medio rango en la mitad estirada (la parte baja) del movimiento: completa, media, completa, media… hasta alcanzar las repeticiones objetivo y un RPE de 9-10."
+  },
+  {
+    "key": "static_stretch_pec",
+    "name": "Pec Static Stretch (30 sec hold)",
+    "nameEs": "Estiramiento estático de pecho (30 s)",
+    "scope": "last_set",
+    "descriptionEs": "Justo después de la última serie, mantén un estiramiento estático del pecho durante unos 30 segundos, por ejemplo con los brazos abiertos en un marco de puerta o con mancuernas ligeras en el banco. El objetivo es sumar tensión en posición estirada al final del ejercicio."
+  },
+  {
+    "key": "static_stretch_quad",
+    "name": "Quad Static Stretch (30 sec hold)",
+    "nameEs": "Estiramiento estático de cuádriceps (30 s)",
+    "scope": "last_set",
+    "descriptionEs": "Al terminar la última serie, mantén un estiramiento estático de cuádriceps durante unos 30 segundos (por ejemplo, de pie llevando el talón al glúteo o en zancada con la rodilla trasera apoyada). Busca sentir el cuádriceps bien estirado sin dolor articular."
+  },
+  {
+    "key": "static_stretch_calf",
+    "name": "Calf Static Stretch (30 sec)",
+    "nameEs": "Estiramiento estático de pantorrilla (30 s)",
+    "scope": "last_set",
+    "descriptionEs": "Al terminar la última serie, quédate abajo en la posición de máximo estiramiento de la pantorrilla (talones lo más abajo posible) y sostenla unos 30 segundos. Así sumas trabajo en la posición estirada, algo en lo que el programa insiste mucho con la pausa abajo en cada repetición."
+  }
+]

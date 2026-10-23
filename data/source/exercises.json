@@ -1,0 +1,752 @@
+[
+  {
+    "slug": "cross-body-lat-pull-around",
+    "name": "Cross-Body Lat Pull-Around",
+    "youtubeId": "8W67lZ5mwTU"
+  },
+  {
+    "slug": "half-kneeling-1-arm-lat-pulldown",
+    "name": "Half-Kneeling 1-Arm Lat Pulldown",
+    "youtubeId": "r8K1Fkch5go"
+  },
+  {
+    "slug": "neutral-grip-pull-up",
+    "name": "Neutral-Grip Pull-Up",
+    "youtubeId": "b0ypSz63UGo"
+  },
+  {
+    "slug": "low-incline-smith-machine-press",
+    "name": "Low Incline Smith Machine Press",
+    "youtubeId": "2ITgeRy2z2s"
+  },
+  {
+    "slug": "low-incline-machine-press",
+    "name": "Low Incline Machine Press",
+    "youtubeId": "JmsY9nSqX9E"
+  },
+  {
+    "slug": "low-incline-db-press",
+    "name": "Low Incline DB Press",
+    "youtubeId": "YmlMsvNGTKA"
+  },
+  {
+    "slug": "machine-hip-adduction",
+    "name": "Machine Hip Adduction",
+    "youtubeId": "FMSCZYu1JhE"
+  },
+  {
+    "slug": "cable-hip-adduction",
+    "name": "Cable Hip Adduction",
+    "youtubeId": "6GYTbv-LtV0"
+  },
+  {
+    "slug": "copenhagen-hip-adduction",
+    "name": "Copenhagen Hip Adduction",
+    "youtubeId": "QRLGyl5-i4k"
+  },
+  {
+    "slug": "leg-press",
+    "name": "Leg Press",
+    "youtubeId": "1yKAQLVV_XI"
+  },
+  {
+    "slug": "belt-squat",
+    "name": "Belt Squat",
+    "youtubeId": "JvAc3k4Jdqw"
+  },
+  {
+    "slug": "high-bar-back-squat",
+    "name": "High-Bar Back Squat",
+    "youtubeId": "V-B_Y-OvOTQ"
+  },
+  {
+    "slug": "lying-paused-rope-face-pull",
+    "name": "Lying Paused Rope Face Pull",
+    "youtubeId": "jTmI3Q1iQUk"
+  },
+  {
+    "slug": "rope-face-pull",
+    "name": "Rope Face Pull",
+    "youtubeId": "GhrVM-jPIEA"
+  },
+  {
+    "slug": "bent-over-reverse-db-flye",
+    "name": "Bent-Over Reverse DB Flye",
+    "youtubeId": "9BfxdGmekv4"
+  },
+  {
+    "slug": "cable-crunch",
+    "name": "Cable Crunch",
+    "youtubeId": "epBrpaGHMcg"
+  },
+  {
+    "slug": "machine-crunch",
+    "name": "Machine Crunch",
+    "youtubeId": "K2yKEoazT3g"
+  },
+  {
+    "slug": "plate-weighted-crunch",
+    "name": "Plate-Weighted Crunch",
+    "youtubeId": "mP99WSRI6Bc"
+  },
+  {
+    "slug": "seated-db-shoulder-press",
+    "name": "Seated DB Shoulder Press",
+    "youtubeId": "B8PB5RPhTWQ"
+  },
+  {
+    "slug": "seated-barbell-shoulder-press",
+    "name": "Seated Barbell Shoulder Press",
+    "youtubeId": "rRpQJAJZgiI"
+  },
+  {
+    "slug": "standing-db-arnold-press",
+    "name": "Standing DB Arnold Press",
+    "youtubeId": "xBJBTfPcvhM"
+  },
+  {
+    "slug": "paused-barbell-rdl",
+    "name": "Paused Barbell RDL",
+    "youtubeId": "74uXdbCYZQY"
+  },
+  {
+    "slug": "paused-db-rdl",
+    "name": "Paused DB RDL",
+    "youtubeId": "gzavDZmYDHk"
+  },
+  {
+    "slug": "glute-ham-raise",
+    "name": "Glute-Ham Raise",
+    "youtubeId": "9ksG-O0ZUto"
+  },
+  {
+    "slug": "chest-supported-machine-row",
+    "name": "Chest-Supported Machine Row",
+    "youtubeId": "ijsSiWSzYw0"
+  },
+  {
+    "slug": "chest-supported-t-bar-row",
+    "name": "Chest-Supported T-Bar Row",
+    "youtubeId": "q8qlHwcuOtc"
+  },
+  {
+    "slug": "helms-row",
+    "name": "Helms Row",
+    "youtubeId": "DjO2G9DIerQ"
+  },
+  {
+    "slug": "hammer-preacher-curl",
+    "name": "Hammer Preacher Curl",
+    "youtubeId": "dEdnC3ca-Yg"
+  },
+  {
+    "slug": "fat-grip-preacher-curl",
+    "name": "Fat-Grip Preacher Curl",
+    "youtubeId": "Xx6iqyRM5Mk"
+  },
+  {
+    "slug": "hammer-curl",
+    "name": "Hammer Curl",
+    "youtubeId": "xY3sQXYhk7A"
+  },
+  {
+    "slug": "cuffed-behind-the-back-lateral-raise",
+    "name": "Cuffed Behind-The-Back Lateral Raise",
+    "youtubeId": "fjiOCmFljDM"
+  },
+  {
+    "slug": "cross-body-cable-y-raise",
+    "name": "Cross-Body Cable Y-Raise",
+    "youtubeId": "64RFJSCJuN8"
+  },
+  {
+    "slug": "db-lateral-raise",
+    "name": "DB Lateral Raise",
+    "youtubeId": "RyztKrzaMNk"
+  },
+  {
+    "slug": "overhead-cable-triceps-extension-bar",
+    "name": "Overhead Cable Triceps Extension (Bar)",
+    "youtubeId": "9_I1PqZAjdA"
+  },
+  {
+    "slug": "overhead-cable-triceps-extension-rope",
+    "name": "Overhead Cable Triceps Extension (Rope)",
+    "youtubeId": "GYoUoVNlbGc"
+  },
+  {
+    "slug": "db-skull-crusher",
+    "name": "DB Skull Crusher",
+    "youtubeId": "fbLTzgTKOR8"
+  },
+  {
+    "slug": "assisted-pull-up",
+    "name": "Assisted Pull-Up",
+    "youtubeId": "iZQNHZuvfUQ"
+  },
+  {
+    "slug": "lat-pulldown",
+    "name": "Lat Pulldown",
+    "youtubeId": "IAktPXPhWYQ"
+  },
+  {
+    "slug": "machine-pulldown",
+    "name": "Machine Pulldown",
+    "youtubeId": "kd6rshRa164"
+  },
+  {
+    "slug": "paused-assisted-dip",
+    "name": "Paused Assisted Dip",
+    "youtubeId": "RyGOGviYWts"
+  },
+  {
+    "slug": "decline-machine-chest-press",
+    "name": "Decline Machine Chest Press",
+    "youtubeId": "AABuMGK9H28"
+  },
+  {
+    "slug": "decline-barbell-press",
+    "name": "Decline Barbell Press",
+    "youtubeId": "2Vg5j_UZr-U"
+  },
+  {
+    "slug": "seated-leg-curl",
+    "name": "Seated Leg Curl",
+    "youtubeId": "yv0aAY7M1mk"
+  },
+  {
+    "slug": "lying-leg-curl",
+    "name": "Lying Leg Curl",
+    "youtubeId": "sX4tGtcc62k"
+  },
+  {
+    "slug": "nordic-ham-curl",
+    "name": "Nordic Ham Curl",
+    "youtubeId": "fzpYiRtzmFA"
+  },
+  {
+    "slug": "leg-extension",
+    "name": "Leg Extension",
+    "youtubeId": "uFbNtqP966A"
+  },
+  {
+    "slug": "db-step-up",
+    "name": "DB Step-Up",
+    "youtubeId": "3FNfi_PrP9Y"
+  },
+  {
+    "slug": "reverse-nordic",
+    "name": "Reverse Nordic",
+    "youtubeId": "D-kqUKEQZZ0"
+  },
+  {
+    "slug": "cable-paused-shrug-in",
+    "name": "Cable Paused Shrug-In",
+    "youtubeId": "Hy6f1Lz_PiA"
+  },
+  {
+    "slug": "machine-shrug",
+    "name": "Machine Shrug",
+    "youtubeId": "ua0XuKwKQ9M"
+  },
+  {
+    "slug": "db-shrug",
+    "name": "DB Shrug",
+    "youtubeId": "moFqLlptX7Q"
+  },
+  {
+    "slug": "roman-chair-leg-raise",
+    "name": "Roman Chair Leg Raise",
+    "youtubeId": "irOzFVqJ0IE"
+  },
+  {
+    "slug": "hanging-leg-raise",
+    "name": "Hanging Leg Raise",
+    "youtubeId": "rGqwkinWqYI"
+  },
+  {
+    "slug": "reverse-crunch",
+    "name": "Reverse Crunch",
+    "youtubeId": "fYZmIC9_sx4"
+  },
+  {
+    "slug": "hack-squat",
+    "name": "Hack Squat",
+    "youtubeId": "TWUnnDK8rck"
+  },
+  {
+    "slug": "machine-squat",
+    "name": "Machine Squat",
+    "youtubeId": "whJzh_27yHs"
+  },
+  {
+    "slug": "front-squat",
+    "name": "Front Squat",
+    "youtubeId": "TRwhJ0TCoqI"
+  },
+  {
+    "slug": "bent-over-cable-pec-flye",
+    "name": "Bent-Over Cable Pec Flye",
+    "youtubeId": "-7bVljkNWAs"
+  },
+  {
+    "slug": "pec-deck",
+    "name": "Pec Deck",
+    "youtubeId": "CI88L1VNvEs"
+  },
+  {
+    "slug": "db-flye",
+    "name": "DB Flye",
+    "youtubeId": "HOg8Ftx5fUU"
+  },
+  {
+    "slug": "neutral-grip-lat-pulldown",
+    "name": "Neutral-Grip Lat Pulldown",
+    "youtubeId": "eiFpSJiyHnA"
+  },
+  {
+    "slug": "leg-press-calf-press",
+    "name": "Leg Press Calf Press",
+    "youtubeId": "S6DTPNZ_-F4"
+  },
+  {
+    "slug": "donkey-calf-raise",
+    "name": "Donkey Calf Raise",
+    "youtubeId": "0eQQwveeQzw"
+  },
+  {
+    "slug": "seated-calf-raise",
+    "name": "Seated Calf Raise",
+    "youtubeId": "6pfj0G7VKdM"
+  },
+  {
+    "slug": "cable-reverse-flye-mechanical-dropset",
+    "name": "Cable Reverse Flye (Mechanical Dropset)",
+    "youtubeId": "nN5RV1arpfM"
+  },
+  {
+    "slug": "reverse-pec-deck",
+    "name": "Reverse Pec Deck",
+    "youtubeId": "Y8fb_rtEU_4"
+  },
+  {
+    "slug": "bayesian-cable-curl",
+    "name": "Bayesian Cable Curl",
+    "youtubeId": "CWH5J_7kzjM"
+  },
+  {
+    "slug": "db-incline-curl",
+    "name": "DB Incline Curl",
+    "youtubeId": "KSJc8bhSjB0"
+  },
+  {
+    "slug": "db-scott-curl",
+    "name": "DB Scott Curl",
+    "youtubeId": "u00CqDeAHTE"
+  },
+  {
+    "slug": "triceps-pressdown-bar",
+    "name": "Triceps Pressdown (Bar)",
+    "youtubeId": "o4eazahiXQw"
+  },
+  {
+    "slug": "triceps-pressdown-rope",
+    "name": "Triceps Pressdown (Rope)",
+    "youtubeId": "bCa036rGtVU"
+  },
+  {
+    "slug": "close-grip-assisted-dip",
+    "name": "Close-Grip Assisted Dip",
+    "youtubeId": "mpcPTUAhfto"
+  },
+  {
+    "slug": "bottom-2-3-constant-tension-preacher-curl",
+    "name": "Bottom-2/3 Constant Tension Preacher Curl",
+    "youtubeId": "vHBedP8oeCA"
+  },
+  {
+    "slug": "bottom-2-3-ez-bar-curl",
+    "name": "Bottom-2/3 EZ-Bar Curl",
+    "youtubeId": "fXI8gN6pq1k"
+  },
+  {
+    "slug": "spider-curl",
+    "name": "Spider Curl",
+    "youtubeId": "jw9tvoGLJmo"
+  },
+  {
+    "slug": "cable-triceps-kickback",
+    "name": "Cable Triceps Kickback",
+    "youtubeId": "oRxTKRtP8RE"
+  },
+  {
+    "slug": "bench-dip",
+    "name": "Bench Dip",
+    "youtubeId": "3CaIq8jZe18"
+  },
+  {
+    "slug": "db-triceps-kickback",
+    "name": "DB Triceps Kickback",
+    "youtubeId": "YdUUYFgpA7g"
+  },
+  {
+    "slug": "standing-calf-raise",
+    "name": "Standing Calf Raise",
+    "youtubeId": "6lR2JdxUh7w"
+  },
+  {
+    "slug": "lat-focused-cable-row",
+    "name": "Lat-Focused Cable Row",
+    "youtubeId": "w11Kqjm-ycE"
+  },
+  {
+    "slug": "elbows-in-1-arm-db-row",
+    "name": "Elbows-In 1-Arm DB Row",
+    "youtubeId": "SwloMZs8ZVk"
+  },
+  {
+    "slug": "low-incline-barbell-press",
+    "name": "Low Incline Barbell Press",
+    "youtubeId": "_74oMsrIFXA"
+  },
+  {
+    "slug": "smith-machine-squat",
+    "name": "Smith Machine Squat",
+    "youtubeId": "lWIEZ6NxPMk"
+  },
+  {
+    "slug": "db-bulgarian-split-squat",
+    "name": "DB Bulgarian Split Squat",
+    "youtubeId": "Z1uu0uHYl20"
+  },
+  {
+    "slug": "reverse-pec-deck-w-integrated-partials",
+    "name": "Reverse Pec Deck (w/ Integrated Partials)",
+    "youtubeId": "KDeYqB9GYeg"
+  },
+  {
+    "slug": "reverse-cable-flye-w-integrated-partials",
+    "name": "Reverse Cable Flye (w/ Integrated Partials)",
+    "youtubeId": "QkAMC88WfXw"
+  },
+  {
+    "slug": "bent-over-reverse-db-flye-w-integrated-partials",
+    "name": "Bent-Over Reverse DB Flye (w/ Integrated Partials)",
+    "youtubeId": "eE3v36jNqDE"
+  },
+  {
+    "slug": "chest-supported-t-bar-row-plus-kelso-shrug",
+    "name": "Chest-Supported T-Bar Row + Kelso Shrug",
+    "youtubeId": "qsmjaYao9pA"
+  },
+  {
+    "slug": "machine-chest-supported-row-plus-kelso-shrug",
+    "name": "Machine Chest-Supported Row + Kelso Shrug",
+    "youtubeId": "SUAafTp7WTQ"
+  },
+  {
+    "slug": "incline-chest-supported-db-row-plus-kelso-shrug",
+    "name": "Incline Chest-Supported DB Row + Kelso Shrug",
+    "youtubeId": "IBRrEPQZUO0"
+  },
+  {
+    "slug": "machine-shoulder-press",
+    "name": "Machine Shoulder Press",
+    "youtubeId": "SCQVmN1gYsk"
+  },
+  {
+    "slug": "cable-shoulder-press",
+    "name": "Cable Shoulder Press",
+    "youtubeId": "OfjncdW_Vyc"
+  },
+  {
+    "slug": "slow-eccentric-db-rdl",
+    "name": "Slow-Eccentric DB RDL",
+    "youtubeId": "9XIvGzgvoE0"
+  },
+  {
+    "slug": "slow-eccentric-barbell-rdl",
+    "name": "Slow-Eccentric Barbell RDL",
+    "youtubeId": "PeXi-Yvn6kI"
+  },
+  {
+    "slug": "slow-eccentric-glute-ham-raise",
+    "name": "Slow-Eccentric Glute-Ham Raise",
+    "youtubeId": "glfk5LBDQf0"
+  },
+  {
+    "slug": "concentration-cable-curl",
+    "name": "Concentration Cable Curl",
+    "youtubeId": "BFZyW_7ld0c"
+  },
+  {
+    "slug": "db-concentration-curl",
+    "name": "DB Concentration Curl",
+    "youtubeId": "Oq7gJuAuJh0"
+  },
+  {
+    "slug": "db-preacher-curl",
+    "name": "DB Preacher Curl",
+    "youtubeId": "WTkQLAethtg"
+  },
+  {
+    "slug": "single-arm-overhead-cable-triceps-extension",
+    "name": "Single-arm Overhead Cable Triceps Extension",
+    "youtubeId": "eNHOA90QcAg"
+  },
+  {
+    "slug": "floor-skull-crusher",
+    "name": "Floor Skull Crusher",
+    "youtubeId": "QZt9mms9o2E"
+  },
+  {
+    "slug": "dual-handle-lat-pulldown-mid-back-plus-lats",
+    "name": "Dual-Handle Lat Pulldown (Mid-back + Lats)",
+    "youtubeId": "NwQ5Ch5t5Vk"
+  },
+  {
+    "slug": "overhand-lat-pulldown",
+    "name": "Overhand Lat Pulldown",
+    "youtubeId": "IAktPXPhWYQ"
+  },
+  {
+    "slug": "pull-up",
+    "name": "Pull-Up",
+    "youtubeId": "5h_NehuTqe4"
+  },
+  {
+    "slug": "decline-smith-machine-press",
+    "name": "Decline Smith Machine Press",
+    "youtubeId": "MlqHZEhBGtw"
+  },
+  {
+    "slug": "machine-hip-abduction",
+    "name": "Machine Hip Abduction",
+    "youtubeId": "Jq4YWyLSh_o"
+  },
+  {
+    "slug": "cable-hip-abduction",
+    "name": "Cable Hip Abduction",
+    "youtubeId": "552L1K3Rb_Q"
+  },
+  {
+    "slug": "lateral-band-walk",
+    "name": "Lateral Band Walk",
+    "youtubeId": "sOYvvFPYdsU"
+  },
+  {
+    "slug": "super-rom-db-lateral-raise",
+    "name": "Super-ROM DB Lateral Raise",
+    "youtubeId": "nW5pGot-Hok"
+  },
+  {
+    "slug": "cable-upright-row",
+    "name": "Cable Upright Row",
+    "youtubeId": "Rm7CPzKLK1M"
+  },
+  {
+    "slug": "medicine-ball-russian-twists",
+    "name": "Medicine Ball Russian Twists",
+    "youtubeId": "eJF2gdt9PcE"
+  },
+  {
+    "slug": "half-kneeling-pallof-press",
+    "name": "Half-Kneeling Pallof Press",
+    "youtubeId": "iBbvHfbKiYc"
+  },
+  {
+    "slug": "bicycle-crunch",
+    "name": "Bicycle Crunch",
+    "youtubeId": "OXs4DCS8Ei8"
+  },
+  {
+    "slug": "smith-machine-reverse-lunge",
+    "name": "Smith Machine Reverse Lunge",
+    "youtubeId": "D0KZo_gBsw0"
+  },
+  {
+    "slug": "db-reverse-lunge",
+    "name": "DB Reverse Lunge",
+    "youtubeId": "QSGe2Sd8kUI"
+  },
+  {
+    "slug": "db-walking-lunge",
+    "name": "DB Walking Lunge",
+    "youtubeId": "BC_eDtrB-M4"
+  },
+  {
+    "slug": "pec-deck-w-integrated-partials",
+    "name": "Pec Deck (w/ Integrated Partials)",
+    "youtubeId": "NPa8YvUg4CM"
+  },
+  {
+    "slug": "bent-over-cable-pec-flye-w-integrated-partials",
+    "name": "Bent-Over Cable Pec Flye (w/ Integrated Partials)",
+    "youtubeId": "DKaKmnB0BO8"
+  },
+  {
+    "slug": "db-flye-w-integrated-partials",
+    "name": "DB Flye (w/ Integrated Partials)",
+    "youtubeId": "AOsdioes78c"
+  },
+  {
+    "slug": "super-rom-overhand-cable-row",
+    "name": "Super-ROM Overhand Cable Row",
+    "youtubeId": "a7AH8W7dQIw"
+  },
+  {
+    "slug": "overhand-machine-row",
+    "name": "Overhand Machine Row",
+    "youtubeId": "WtokJfvWl-I"
+  },
+  {
+    "slug": "arm-out-single-arm-db-row",
+    "name": "Arm-Out Single-Arm DB Row",
+    "youtubeId": "1ydRu2K6oHg"
+  },
+  {
+    "slug": "db-calf-jumps",
+    "name": "DB Calf Jumps",
+    "youtubeId": "JkY3nBTbRac"
+  },
+  {
+    "slug": "leg-press-calf-jumps",
+    "name": "Leg Press Calf Jumps",
+    "youtubeId": "FKY1GmU-nYI"
+  },
+  {
+    "slug": "rear-delt-45-cable-flye",
+    "name": "Rear Delt 45° Cable Flye",
+    "youtubeId": "8iXorduqXC8"
+  },
+  {
+    "slug": "reverse-cable-flye",
+    "name": "Reverse Cable Flye",
+    "youtubeId": "zX_uPN0szeU"
+  },
+  {
+    "slug": "slow-eccentric-ez-bar-skull-crusher",
+    "name": "Slow-Eccentric EZ-Bar Skull Crusher",
+    "youtubeId": "opVMIWzaNFY"
+  },
+  {
+    "slug": "slow-eccentric-db-skull-crusher",
+    "name": "Slow-Eccentric DB Skull Crusher",
+    "youtubeId": "HpW1nqPsGvw"
+  },
+  {
+    "slug": "slow-eccentric-db-french-press",
+    "name": "Slow-Eccentric DB French Press",
+    "youtubeId": "EAW6XDAlZPo"
+  },
+  {
+    "slug": "slow-eccentric-bayesian-curl",
+    "name": "Slow-Eccentric Bayesian Curl",
+    "youtubeId": "Kf2kXBoIgM0"
+  },
+  {
+    "slug": "slow-eccentric-db-incline-curl",
+    "name": "Slow-Eccentric DB Incline Curl",
+    "youtubeId": "_ceLw3Q6uTA"
+  },
+  {
+    "slug": "slow-eccentric-db-scott-curl",
+    "name": "Slow-Eccentric DB Scott Curl",
+    "youtubeId": "ijgSR2yriyg"
+  },
+  {
+    "slug": "triceps-diverging-pressdown-long-rope-or-2-ropes",
+    "name": "Triceps Diverging Pressdown (Long Rope or 2 Ropes)",
+    "youtubeId": "20tbMlP71Nc"
+  },
+  {
+    "slug": "inverse-db-zottman-curl",
+    "name": "Inverse DB Zottman Curl",
+    "youtubeId": "jBIvbpyb99M"
+  },
+  {
+    "slug": "fat-grip-db-curl",
+    "name": "Fat-Grip DB Curl",
+    "youtubeId": "AE49-Oqh-0w"
+  },
+  {
+    "slug": "machine-lateral-raise",
+    "name": "Machine Lateral Raise",
+    "youtubeId": "5hZCR8lTdBk"
+  },
+  {
+    "slug": "smith-machine-shoulder-press",
+    "name": "Smith Machine Shoulder Press",
+    "youtubeId": "Ru2yE4wWUvE"
+  },
+  {
+    "slug": "cable-lat-prayer",
+    "name": "Cable Lat Prayer",
+    "youtubeId": "YrcnBlH8XDA"
+  },
+  {
+    "slug": "db-lat-pullover",
+    "name": "DB Lat Pullover",
+    "youtubeId": "iaRefVKBH8M"
+  },
+  {
+    "slug": "machine-lat-pullover",
+    "name": "Machine Lat Pullover",
+    "youtubeId": "YT0K0PBl3nk"
+  },
+  {
+    "slug": "single-leg-leg-press",
+    "name": "Single-Leg Leg Press",
+    "youtubeId": "zURHw38OZTM"
+  },
+  {
+    "slug": "sissy-squat",
+    "name": "Sissy Squat",
+    "youtubeId": "eWAjlO4FWPQ"
+  },
+  {
+    "slug": "barbell-hip-thrust",
+    "name": "Barbell Hip Thrust",
+    "youtubeId": "8RwbLtfLu6A"
+  },
+  {
+    "slug": "single-leg-db-hip-thrust",
+    "name": "Single-Leg DB Hip Thrust",
+    "youtubeId": "V8uasBf-Es8"
+  },
+  {
+    "slug": "low-incline-db-flye",
+    "name": "Low Incline DB Flye",
+    "youtubeId": "gfIx0U5bTMA"
+  },
+  {
+    "slug": "low-to-high-cable-crossover",
+    "name": "Low-To-High Cable Crossover",
+    "youtubeId": "1LhGmhVFe2Y"
+  },
+  {
+    "slug": "chest-press-machine",
+    "name": "Chest Press Machine",
+    "youtubeId": "zDecGJLyVm8"
+  },
+  {
+    "slug": "dumbbell-chest-press",
+    "name": "Dumbbell Chest Press",
+    "youtubeId": "zGXvPjlgVkk"
+  },
+  {
+    "slug": "plate-loaded-neck-curls",
+    "name": "Plate-Loaded Neck Curls",
+    "youtubeId": "CuIkTLjx6fo"
+  },
+  {
+    "slug": "head-harness-neck-extension",
+    "name": "Head Harness Neck Extension",
+    "youtubeId": "Mp2kp2tVhGQ"
+  },
+  {
+    "slug": "plate-loaded-neck-extension",
+    "name": "Plate-Loaded Neck Extension",
+    "youtubeId": "av_h904QAEY"
+  }
+]

@@ -1,0 +1,280 @@
+[
+  {
+    "key": "shoulders",
+    "nameEn": "Shoulders",
+    "nameEs": "Hombros",
+    "guidanceEn": null,
+    "guidanceEs": null,
+    "options": [
+      {
+        "slot": 1,
+        "position": 1,
+        "exercise": "cuffed-behind-the-back-lateral-raise",
+        "note": null
+      },
+      {
+        "slot": 1,
+        "position": 2,
+        "exercise": "machine-lateral-raise",
+        "note": null
+      },
+      {
+        "slot": 1,
+        "position": 3,
+        "exercise": "db-lateral-raise",
+        "note": null
+      },
+      {
+        "slot": 2,
+        "position": 1,
+        "exercise": "machine-shoulder-press",
+        "note": null
+      },
+      {
+        "slot": 2,
+        "position": 2,
+        "exercise": "smith-machine-shoulder-press",
+        "note": null
+      },
+      {
+        "slot": 2,
+        "position": 3,
+        "exercise": "standing-db-arnold-press",
+        "note": null
+      }
+    ]
+  },
+  {
+    "key": "lats",
+    "nameEn": "Lats (“Back Width”)",
+    "nameEs": "Dorsales (“amplitud de espalda”)",
+    "guidanceEn": null,
+    "guidanceEs": null,
+    "options": [
+      {
+        "slot": 1,
+        "position": 1,
+        "exercise": "cable-lat-prayer",
+        "note": null
+      },
+      {
+        "slot": 1,
+        "position": 2,
+        "exercise": "db-lat-pullover",
+        "note": null
+      },
+      {
+        "slot": 1,
+        "position": 3,
+        "exercise": "machine-lat-pullover",
+        "note": null
+      },
+      {
+        "slot": 2,
+        "position": 1,
+        "exercise": "lat-focused-cable-row",
+        "note": null
+      },
+      {
+        "slot": 2,
+        "position": 2,
+        "exercise": "elbows-in-1-arm-db-row",
+        "note": null
+      },
+      {
+        "slot": 2,
+        "position": 3,
+        "exercise": "half-kneeling-1-arm-lat-pulldown",
+        "note": null
+      }
+    ]
+  },
+  {
+    "key": "quads",
+    "nameEn": "Quads",
+    "nameEs": "Cuádriceps",
+    "guidanceEn": null,
+    "guidanceEs": null,
+    "options": [
+      {
+        "slot": 1,
+        "position": 1,
+        "exercise": "leg-extension",
+        "note": null
+      },
+      {
+        "slot": 1,
+        "position": 2,
+        "exercise": "reverse-nordic",
+        "note": null
+      },
+      {
+        "slot": 2,
+        "position": 1,
+        "exercise": "single-leg-leg-press",
+        "note": null
+      },
+      {
+        "slot": 2,
+        "position": 2,
+        "exercise": "sissy-squat",
+        "note": null
+      }
+    ]
+  },
+  {
+    "key": "glutes",
+    "nameEn": "Glutes",
+    "nameEs": "Glúteos",
+    "guidanceEn": null,
+    "guidanceEs": null,
+    "options": [
+      {
+        "slot": 1,
+        "position": 1,
+        "exercise": "machine-hip-abduction",
+        "note": null
+      },
+      {
+        "slot": 1,
+        "position": 2,
+        "exercise": "cable-hip-abduction",
+        "note": null
+      },
+      {
+        "slot": 1,
+        "position": 3,
+        "exercise": "lateral-band-walk",
+        "note": null
+      },
+      {
+        "slot": 2,
+        "position": 1,
+        "exercise": "barbell-hip-thrust",
+        "note": null
+      },
+      {
+        "slot": 2,
+        "position": 2,
+        "exercise": "single-leg-db-hip-thrust",
+        "note": null
+      }
+    ]
+  },
+  {
+    "key": "chest",
+    "nameEn": "Chest",
+    "nameEs": "Pecho",
+    "guidanceEn": null,
+    "guidanceEs": null,
+    "options": [
+      {
+        "slot": 1,
+        "position": 1,
+        "exercise": "low-incline-db-flye",
+        "note": null
+      },
+      {
+        "slot": 1,
+        "position": 2,
+        "exercise": "low-to-high-cable-crossover",
+        "note": null
+      },
+      {
+        "slot": 2,
+        "position": 1,
+        "exercise": "chest-press-machine",
+        "note": "incline if upper pecs are lagging, flat if entire chest is lagging"
+      },
+      {
+        "slot": 2,
+        "position": 2,
+        "exercise": "dumbbell-chest-press",
+        "note": "incline if upper pecs are lagging, flat if entire chest is lagging"
+      }
+    ]
+  },
+  {
+    "key": "neck",
+    "nameEn": "Neck",
+    "nameEs": "Cuello",
+    "guidanceEn": null,
+    "guidanceEs": null,
+    "options": [
+      {
+        "slot": 1,
+        "position": 1,
+        "exercise": "plate-loaded-neck-curls",
+        "note": null
+      },
+      {
+        "slot": 2,
+        "position": 1,
+        "exercise": "head-harness-neck-extension",
+        "note": null
+      },
+      {
+        "slot": 2,
+        "position": 2,
+        "exercise": "plate-loaded-neck-extension",
+        "note": null
+      }
+    ]
+  },
+  {
+    "key": "hamstrings",
+    "nameEn": "Hamstrings",
+    "nameEs": "Isquiotibiales",
+    "guidanceEn": "There is a lot of hamstrings volume in this program. If they are a weak point for you, simply focus on executing the exercises listed with your best effort and execution rather than adding more volume.",
+    "guidanceEs": "El programa ya tiene mucho volumen de isquiotibiales. Si son tu punto débil, concéntrate en ejecutar los ejercicios indicados con tu mejor esfuerzo y técnica en lugar de agregar más volumen.",
+    "options": []
+  },
+  {
+    "key": "calves",
+    "nameEn": "Calves",
+    "nameEs": "Pantorrillas",
+    "guidanceEn": "Rather than adding more calf training volume, focus on the execution of the sets given in the program first. Ensure you are pausing at the bottom of each rep and reaching a high level of effort. Feel free to sprinkle in 1-2 extra sets per exercise if they are a major priority for you.",
+    "guidanceEs": "En lugar de agregar más volumen de pantorrilla, primero enfócate en ejecutar bien las series del programa. Haz una pausa abajo en cada repetición y alcanza un nivel alto de esfuerzo. Si son una gran prioridad para ti, puedes agregar 1-2 series extra por ejercicio.",
+    "options": []
+  },
+  {
+    "key": "mid_back",
+    "nameEn": "Mid-Back (“Back Thickness”)",
+    "nameEs": "Espalda media (“grosor de espalda”)",
+    "guidanceEn": "There is a lot of mid-back volume in this program. If this is a weak point for you, simply focus on executing the exercises listed with your best effort and execution rather than adding more volume. Really focus on squeezing your shoulder blades together on the positive and feeling your back pull apart on the negative when doing mid-back focused rows.",
+    "guidanceEs": "El programa ya tiene mucho volumen de espalda media. Si es tu punto débil, concéntrate en ejecutar los ejercicios indicados con tu mejor esfuerzo y técnica en lugar de agregar más volumen. En los remos enfocados en espalda media, junta con fuerza las escápulas en la fase concéntrica y siente cómo se estira la espalda en la excéntrica.",
+    "options": []
+  },
+  {
+    "key": "upper_traps",
+    "nameEn": "Upper Traps",
+    "nameEs": "Trapecio superior",
+    "guidanceEn": "The upper traps shouldn’t require a high level of volume to grow, especially when there is a lot of mid-back work. Before adding sets, focus on the execution of the sets given in the program first. Ensure you are squeezing your traps at the top of each rep and reaching a high level of effort. Feel free to sprinkle in 1-2 extra sets per exercise if they are a major priority for you.",
+    "guidanceEs": "El trapecio superior no necesita mucho volumen para crecer, sobre todo cuando hay mucho trabajo de espalda media. Antes de agregar series, enfócate en ejecutar bien las del programa: aprieta el trapecio arriba en cada repetición y alcanza un nivel alto de esfuerzo. Si es una gran prioridad para ti, puedes agregar 1-2 series extra por ejercicio.",
+    "options": []
+  },
+  {
+    "key": "abs",
+    "nameEn": "Abs",
+    "nameEs": "Abdominales",
+    "guidanceEn": "The abs shouldn’t require a high level of volume to grow. If you are wanting to see your abs, your diet will be mainly responsible for lowering your level of abdominal fat to allow them to show through. Before adding sets, focus on the execution of the sets given in the program first. Ensure you are allowing your lower back to round on crunches and leg raises as you squeeze your abs. Feel free to sprinkle in 1-2 extra sets per exercise if they are a major priority for you.",
+    "guidanceEs": "Los abdominales no necesitan mucho volumen para crecer. Si quieres que se vean, la dieta es la principal responsable de bajar la grasa abdominal. Antes de agregar series, enfócate en ejecutar bien las del programa: deja que la zona lumbar se redondee en los crunches y elevaciones de piernas mientras contraes el abdomen. Si son una gran prioridad para ti, puedes agregar 1-2 series extra por ejercicio.",
+    "options": []
+  },
+  {
+    "key": "biceps",
+    "nameEn": "Biceps",
+    "nameEs": "Bíceps",
+    "guidanceEn": "Because there is a dedicated arm day in this program and the biceps will get plenty of indirect work back exercises, adding even more sets would probably not be productive and would most likely fall under the “junk volume” category.",
+    "guidanceEs": "Como el programa tiene un día dedicado a brazos y los bíceps reciben mucho trabajo indirecto en los ejercicios de espalda, agregar más series probablemente no sería productivo y caería en la categoría de “volumen basura”.",
+    "options": []
+  },
+  {
+    "key": "triceps",
+    "nameEn": "Triceps",
+    "nameEs": "Tríceps",
+    "guidanceEn": "Because there is a dedicated arm day in this program and the triceps will get plenty of indirect work from pressing, adding even more sets would probably not be productive and would most likely fall under the “junk volume” category.",
+    "guidanceEs": "Como el programa tiene un día dedicado a brazos y los tríceps reciben mucho trabajo indirecto en los ejercicios de empuje, agregar más series probablemente no sería productivo y caería en la categoría de “volumen basura”.",
+    "options": []
+  }
+]

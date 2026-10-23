@@ -1,0 +1,92 @@
+{
+  "general": [
+    {
+      "position": 1,
+      "item": "Light cardio on your choice of machine (treadmill, stairmaster, elliptical, bike, etc.)",
+      "itemEs": "Cardio ligero en la máquina que prefieras (caminadora, escaladora, elíptica, bicicleta, etc.)",
+      "dose": "5-10 minutes",
+      "doseEs": "5-10 minutos"
+    },
+    {
+      "position": 2,
+      "item": "Arm Swings",
+      "itemEs": "Balanceos de brazos",
+      "dose": "10 reps per side",
+      "doseEs": "10 repeticiones por lado"
+    },
+    {
+      "position": 3,
+      "item": "Arm Circles",
+      "itemEs": "Círculos de brazos",
+      "dose": "10 reps per side",
+      "doseEs": "10 repeticiones por lado"
+    },
+    {
+      "position": 4,
+      "item": "Front-to-Back Leg Swings",
+      "itemEs": "Balanceos de pierna adelante-atrás",
+      "dose": "10 reps per side",
+      "doseEs": "10 repeticiones por lado"
+    },
+    {
+      "position": 5,
+      "item": "Side-to-Side Leg Swings",
+      "itemEs": "Balanceos de pierna laterales",
+      "dose": "10 reps per side",
+      "doseEs": "10 repeticiones por lado"
+    },
+    {
+      "position": 6,
+      "item": "Cable External Rotation (optional)",
+      "itemEs": "Rotación externa en polea (opcional)",
+      "dose": "15 reps per side",
+      "doseEs": "15 repeticiones por lado"
+    }
+  ],
+  "specific": [
+    {
+      "setsCount": 1,
+      "setNumber": 1,
+      "pctOfWorking": 0.6,
+      "repsText": "6-10"
+    },
+    {
+      "setsCount": 2,
+      "setNumber": 1,
+      "pctOfWorking": 0.5,
+      "repsText": "6-10"
+    },
+    {
+      "setsCount": 2,
+      "setNumber": 2,
+      "pctOfWorking": 0.7,
+      "repsText": "4-6"
+    },
+    {
+      "setsCount": 3,
+      "setNumber": 1,
+      "pctOfWorking": 0.45,
+      "repsText": "6-10"
+    },
+    {
+      "setsCount": 3,
+      "setNumber": 2,
+      "pctOfWorking": 0.65,
+      "repsText": "4-6"
+    },
+    {
+      "setsCount": 3,
+      "setNumber": 3,
+      "pctOfWorking": 0.85,
+      "repsText": "3-4"
+    }
+  ],
+  "programNotesEs": [
+    "Haz siempre el calentamiento general y el calentamiento específico de cada ejercicio antes de entrenar; no debería tomar más de 5-10 minutos.",
+    "Las dos primeras semanas la mayoría de las series van a RPE ~7-8 u ~8-9 (dejando 1-3 repeticiones en reserva) y hay menos técnicas de intensidad, para adaptarte a la mayor frecuencia de entrenamiento. Después la intensidad sube y casi todas las series llegan a RPE 9-10, es decir, a ~1 repetición del fallo o al fallo: concéntrate antes de cada serie efectiva.",
+    "Las series efectivas se dividen en series tempranas y última serie. Las tempranas son todas las que van antes de la última y deberían ser un poco más fáciles (RPE algo menor); la última serie se lleva al fallo en la mayoría de los ejercicios (no en todos). Consulta The Pure Hypertrophy Handbook para la explicación completa del RPE.",
+    "Hay un día de Brazos y Puntos Débiles: elige un punto débil de la tabla y haz 1-2 ejercicios para él ese día.",
+    "Cada ejercicio tiene un video de demostración; te recomendamos verlo antes de empezar el entrenamiento.",
+    "Cómo interpretar la técnica de intensidad de la última serie, cuándo usar un sustituto y cómo progresar dentro de los rangos de repeticiones se explica en The Hypertrophy Handbook; léelo completo antes de tu primer entrenamiento."
+  ]
+}

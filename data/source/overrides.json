@@ -1,0 +1,18 @@
+{
+  "_doc": "Manual fixes applied by scripts/extract/extract_pdf.py after extracting the PDF. nameAliases: PDF spelling -> canonical name (same YouTube video, pure naming variant). textReplacements: literal substitutions applied to every notes cell (safety net for PDF glyph/spacing artifacts). cells: per-cell overrides keyed by PDF page and 1-based row position (field = name|technique|warmup|sets|reps|early_rpe|last_rpe|rest|sub1|sub2|notes). Note overflow between consecutive rows (block 2 Full Body #2: Standing Calf Raise -> Slow-Eccentric DB RDL) is repaired automatically and checked against expectedNoteOverflows.",
+  "nameAliases": {
+    "Neutral-Grip Pullup": "Neutral-Grip Pull-Up",
+    "Low Incline Chest Machine Press": "Low Incline Machine Press",
+    "Dumbbell Lateral Raise": "DB Lateral Raise",
+    "Reverse Nordics": "Reverse Nordic"
+  },
+  "textReplacements": [
+    { "from": "4 5°", "to": "45°" },
+    { "from": "e cessive", "to": "excessive" },
+    { "from": "squee e", "to": "squeeze" },
+    { "from": "a\"Y\"", "to": "a \"Y\"" },
+    { "from": "half- ROM", "to": "half-ROM" }
+  ],
+  "expectedNoteOverflows": [32, 37, 42, 47, 52],
+  "cells": []
+}

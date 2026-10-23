@@ -1,0 +1,752 @@
+{
+  "arm-out-single-arm-db-row": {
+    "datasetId": "0292",
+    "match": "approx",
+    "matchNote": "El GIF muestra el remo a una mano con el codo pegado; en el PDF el codo sale abierto ~45° (más dorsal alto/espalda media)."
+  },
+  "assisted-pull-up": {
+    "datasetId": "0017",
+    "match": "exact",
+    "matchNote": null
+  },
+  "barbell-hip-thrust": {
+    "datasetId": "1409",
+    "match": "approx",
+    "matchNote": "El GIF es puente de glúteo con barra acostado en el suelo; en el hip thrust la espalda alta se apoya en un banco (mayor rango)."
+  },
+  "bayesian-cable-curl": {
+    "datasetId": "0190",
+    "match": "approx",
+    "matchNote": "El GIF es curl a una mano con polea frente al cuerpo; en el Bayesian la polea queda detrás y el brazo se extiende hacia atrás (estiramiento del bíceps)."
+  },
+  "belt-squat": {
+    "datasetId": "0852",
+    "match": "approx",
+    "matchNote": "Sentadilla con disco colgado de cinturón de lastre sobre dos bancos; no es la máquina de belt squat"
+  },
+  "bench-dip": {
+    "datasetId": "0812",
+    "match": "exact",
+    "matchNote": null
+  },
+  "bent-over-cable-pec-flye": {
+    "datasetId": "0227",
+    "match": "approx",
+    "matchNote": "El GIF es aperturas en polea de pie con torso erguido; el PDF inclina el torso casi paralelo al suelo y abre hacia el piso."
+  },
+  "bent-over-cable-pec-flye-w-integrated-partials": {
+    "datasetId": "0227",
+    "match": "approx",
+    "matchNote": "El GIF es de pie erguido; en el programa el torso va inclinado hacia adelante."
+  },
+  "bent-over-reverse-db-flye": {
+    "datasetId": "0380",
+    "match": "exact",
+    "matchNote": null
+  },
+  "bent-over-reverse-db-flye-w-integrated-partials": {
+    "datasetId": "0380",
+    "match": "exact",
+    "matchNote": null
+  },
+  "bicycle-crunch": {
+    "datasetId": "0003",
+    "match": "exact",
+    "matchNote": null
+  },
+  "bottom-2-3-constant-tension-preacher-curl": {
+    "datasetId": "1627",
+    "match": "exact",
+    "matchNote": null
+  },
+  "bottom-2-3-ez-bar-curl": {
+    "datasetId": "0447",
+    "match": "exact",
+    "matchNote": null
+  },
+  "cable-crunch": {
+    "datasetId": "0175",
+    "match": "exact",
+    "matchNote": null
+  },
+  "cable-hip-abduction": {
+    "datasetId": "1427",
+    "match": "approx",
+    "matchNote": "El GIF es abducción de pie sin carga; en el programa se hace con tobillera en polea baja."
+  },
+  "cable-hip-adduction": {
+    "datasetId": "0168",
+    "match": "exact",
+    "matchNote": null
+  },
+  "cable-lat-prayer": {
+    "datasetId": "0238",
+    "match": "approx",
+    "matchNote": "El GIF es pulldown con brazos rectos de pie y erguido; el lat prayer (barra recta) arranca inclinado hacia adelante para estirar el dorsal y se incorpora al tirar."
+  },
+  "cable-paused-shrug-in": {
+    "datasetId": "0220",
+    "match": "approx",
+    "matchNote": "El GIF es encogimiento en polea baja de frente; el PDF cruza los cables (shrug-in hacia adentro) con pausas arriba y abajo."
+  },
+  "cable-reverse-flye-mechanical-dropset": {
+    "datasetId": "0225",
+    "match": "exact",
+    "matchNote": null
+  },
+  "cable-shoulder-press": {
+    "datasetId": "0219",
+    "match": "approx",
+    "matchNote": "El GIF es de pie entre poleas; en el video se hace sentado en banco."
+  },
+  "cable-triceps-kickback": {
+    "datasetId": "0860",
+    "match": "exact",
+    "matchNote": null
+  },
+  "cable-upright-row": {
+    "datasetId": "0246",
+    "match": "exact",
+    "matchNote": null
+  },
+  "chest-press-machine": {
+    "datasetId": "0577",
+    "match": "approx",
+    "matchNote": "El GIF es press de pecho en máquina sentado; en el video del PDF se usa una máquina de press acostado (tipo banca). Mismo patrón de empuje horizontal."
+  },
+  "chest-supported-machine-row": {
+    "datasetId": "1350",
+    "match": "exact",
+    "matchNote": null
+  },
+  "chest-supported-t-bar-row": {
+    "datasetId": "1349",
+    "match": "exact",
+    "matchNote": null
+  },
+  "chest-supported-t-bar-row-plus-kelso-shrug": {
+    "datasetId": "1349",
+    "match": "approx",
+    "matchNote": "El GIF muestra solo el remo T con apoyo de pecho; no incluye el Kelso shrug (retracción escapular sin flexionar codos) que se encadena al final."
+  },
+  "close-grip-assisted-dip": {
+    "datasetId": "0019",
+    "match": "exact",
+    "matchNote": null
+  },
+  "concentration-cable-curl": {
+    "datasetId": "1642",
+    "match": "approx",
+    "matchNote": "El GIF es sentado en banco; en el video se hace de pie, inclinado con el codo apoyado en el muslo."
+  },
+  "copenhagen-hip-adduction": {
+    "datasetId": "1775",
+    "match": "exact",
+    "matchNote": null
+  },
+  "cross-body-cable-y-raise": {
+    "datasetId": "0178",
+    "match": "approx",
+    "matchNote": "El GIF es elevación lateral con cables cruzados hasta la altura del hombro; el PDF lleva los brazos más arriba y hacia afuera en diagonal (forma de Y, \"desenvainar la espada\")."
+  },
+  "cross-body-lat-pull-around": {
+    "datasetId": "0983",
+    "match": "approx",
+    "matchNote": "Jalón a una mano medio arrodillado con banda en lugar de polea; el PDF lleva el codo en arco cruzando el cuerpo hacia la cadera"
+  },
+  "cuffed-behind-the-back-lateral-raise": {
+    "datasetId": "0178",
+    "match": "approx",
+    "matchNote": "El GIF es elevación lateral bilateral con cables cruzados por delante del cuerpo; el PDF usa brazaletes en muñeca/antebrazo y los cables se cruzan por detrás de la espalda."
+  },
+  "db-bulgarian-split-squat": {
+    "datasetId": "0410",
+    "match": "exact",
+    "matchNote": null
+  },
+  "db-calf-jumps": {
+    "datasetId": "0417",
+    "match": "approx",
+    "matchNote": "El GIF es elevación de talones de pie con dos mancuernas; en el PDF se sostiene una mancuerna y se hace un rebote explosivo tipo salto sin despegar del suelo, con ligera flexión de rodilla."
+  },
+  "db-concentration-curl": {
+    "datasetId": "0297",
+    "match": "exact",
+    "matchNote": null
+  },
+  "db-flye": {
+    "datasetId": "0308",
+    "match": "exact",
+    "matchNote": null
+  },
+  "db-flye-w-integrated-partials": {
+    "datasetId": "0308",
+    "match": "exact",
+    "matchNote": null
+  },
+  "db-incline-curl": {
+    "datasetId": "0318",
+    "match": "exact",
+    "matchNote": null
+  },
+  "db-lat-pullover": {
+    "datasetId": "0375",
+    "match": "exact",
+    "matchNote": null
+  },
+  "db-lateral-raise": {
+    "datasetId": "0334",
+    "match": "exact",
+    "matchNote": null
+  },
+  "db-preacher-curl": {
+    "datasetId": "0372",
+    "match": "exact",
+    "matchNote": null
+  },
+  "db-reverse-lunge": {
+    "datasetId": "0381",
+    "match": "exact",
+    "matchNote": null
+  },
+  "db-scott-curl": {
+    "datasetId": "0428",
+    "match": "exact",
+    "matchNote": null
+  },
+  "db-shrug": {
+    "datasetId": "0406",
+    "match": "exact",
+    "matchNote": null
+  },
+  "db-skull-crusher": {
+    "datasetId": "0351",
+    "match": "exact",
+    "matchNote": null
+  },
+  "db-step-up": {
+    "datasetId": "0431",
+    "match": "exact",
+    "matchNote": null
+  },
+  "db-triceps-kickback": {
+    "datasetId": "0333",
+    "match": "exact",
+    "matchNote": null
+  },
+  "db-walking-lunge": {
+    "datasetId": "1460",
+    "match": "approx",
+    "matchNote": "El GIF es sin peso; en el programa se cargan mancuernas."
+  },
+  "decline-barbell-press": {
+    "datasetId": "0033",
+    "match": "exact",
+    "matchNote": null
+  },
+  "decline-machine-chest-press": {
+    "datasetId": "1300",
+    "match": "exact",
+    "matchNote": null
+  },
+  "decline-smith-machine-press": {
+    "datasetId": "0753",
+    "match": "exact",
+    "matchNote": null
+  },
+  "donkey-calf-raise": {
+    "datasetId": "1253",
+    "match": "exact",
+    "matchNote": null
+  },
+  "dual-handle-lat-pulldown-mid-back-plus-lats": {
+    "datasetId": "0818",
+    "match": "exact",
+    "matchNote": null
+  },
+  "dumbbell-chest-press": {
+    "datasetId": "0289",
+    "match": "exact",
+    "matchNote": null
+  },
+  "elbows-in-1-arm-db-row": {
+    "datasetId": "0292",
+    "match": "exact",
+    "matchNote": null
+  },
+  "fat-grip-db-curl": {
+    "datasetId": "0294",
+    "match": "approx",
+    "matchNote": "El GIF es curl con mancuernas normal; en el PDF se usan fat grips (agarre grueso) en las mancuernas."
+  },
+  "fat-grip-preacher-curl": {
+    "datasetId": "0372",
+    "match": "approx",
+    "matchNote": "Curl predicador con mancuernas sin agarres gruesos (Fat Gripz)"
+  },
+  "floor-skull-crusher": {
+    "datasetId": "0060",
+    "match": "approx",
+    "matchNote": "El GIF es en banco plano; en el programa se hace acostado en el suelo."
+  },
+  "front-squat": {
+    "datasetId": "0042",
+    "match": "exact",
+    "matchNote": null
+  },
+  "glute-ham-raise": {
+    "datasetId": "3193",
+    "match": "exact",
+    "matchNote": null
+  },
+  "hack-squat": {
+    "datasetId": "0743",
+    "match": "exact",
+    "matchNote": null
+  },
+  "half-kneeling-1-arm-lat-pulldown": {
+    "datasetId": "0983",
+    "match": "approx",
+    "matchNote": "Mismo jalón a una mano medio arrodillado, pero con banda elástica en lugar de polea"
+  },
+  "half-kneeling-pallof-press": {
+    "datasetId": "0979",
+    "match": "approx",
+    "matchNote": "El GIF es de pie con banda; en el programa se hace medio arrodillado con polea."
+  },
+  "hammer-curl": {
+    "datasetId": "0313",
+    "match": "exact",
+    "matchNote": null
+  },
+  "hammer-preacher-curl": {
+    "datasetId": "1663",
+    "match": "exact",
+    "matchNote": null
+  },
+  "hanging-leg-raise": {
+    "datasetId": "0472",
+    "match": "exact",
+    "matchNote": null
+  },
+  "head-harness-neck-extension": {
+    "datasetId": null,
+    "match": "none",
+    "matchNote": "El dataset no tiene extensiones de cuello con arnés (solo estiramientos). Ver video."
+  },
+  "helms-row": {
+    "datasetId": "0327",
+    "match": "approx",
+    "matchNote": "Remo con mancuernas con pecho apoyado acostado en banco inclinado; el Helms row se hace de pie apoyando el pecho en el borde del respaldo"
+  },
+  "high-bar-back-squat": {
+    "datasetId": "1436",
+    "match": "exact",
+    "matchNote": null
+  },
+  "incline-chest-supported-db-row-plus-kelso-shrug": {
+    "datasetId": "0327",
+    "match": "approx",
+    "matchNote": "El GIF muestra solo el remo con mancuernas en banco inclinado; no incluye el Kelso shrug (retracción escapular sin flexionar codos) que se encadena al final."
+  },
+  "inverse-db-zottman-curl": {
+    "datasetId": "0439",
+    "match": "approx",
+    "matchNote": "El GIF es el Zottman clásico (sube con palmas arriba, baja con palmas abajo); en la versión inversa se sube con agarre neutro (martillo), se giran las palmas arriba en la cima y se baja en supinación."
+  },
+  "lat-focused-cable-row": {
+    "datasetId": "0861",
+    "match": "approx",
+    "matchNote": "Remo sentado en polea genérico; en el PDF los codos van pegados al cuerpo tirando hacia abajo y atrás (hacia la cadera) para enfocar dorsal."
+  },
+  "lat-pulldown": {
+    "datasetId": "0198",
+    "match": "exact",
+    "matchNote": null
+  },
+  "lateral-band-walk": {
+    "datasetId": "0628",
+    "match": "approx",
+    "matchNote": "Monster walk: mismo paso lateral, pero el GIF no muestra la banda elástica."
+  },
+  "leg-extension": {
+    "datasetId": "0585",
+    "match": "exact",
+    "matchNote": null
+  },
+  "leg-press": {
+    "datasetId": "0739",
+    "match": "exact",
+    "matchNote": null
+  },
+  "leg-press-calf-jumps": {
+    "datasetId": "1391",
+    "match": "approx",
+    "matchNote": "El GIF es la extensión de pantorrilla en prensa sin despegar la plataforma; en el PDF se hacen saltos explosivos con los tobillos."
+  },
+  "leg-press-calf-press": {
+    "datasetId": "1391",
+    "match": "exact",
+    "matchNote": null
+  },
+  "low-incline-barbell-press": {
+    "datasetId": "0047",
+    "match": "exact",
+    "matchNote": null
+  },
+  "low-incline-db-flye": {
+    "datasetId": "0319",
+    "match": "exact",
+    "matchNote": null
+  },
+  "low-incline-db-press": {
+    "datasetId": "0314",
+    "match": "exact",
+    "matchNote": null
+  },
+  "low-incline-machine-press": {
+    "datasetId": "1299",
+    "match": "exact",
+    "matchNote": null
+  },
+  "low-incline-smith-machine-press": {
+    "datasetId": "0757",
+    "match": "exact",
+    "matchNote": null
+  },
+  "low-to-high-cable-crossover": {
+    "datasetId": "0179",
+    "match": "exact",
+    "matchNote": null
+  },
+  "lying-leg-curl": {
+    "datasetId": "0586",
+    "match": "exact",
+    "matchNote": null
+  },
+  "lying-paused-rope-face-pull": {
+    "datasetId": "0233",
+    "match": "approx",
+    "matchNote": "Face pull con cuerda de pie; el PDF lo hace acostado en el suelo con pausa en la contracción"
+  },
+  "machine-chest-supported-row-plus-kelso-shrug": {
+    "datasetId": "1350",
+    "match": "approx",
+    "matchNote": "El GIF muestra solo el remo en máquina con apoyo de pecho; no incluye el Kelso shrug (retracción escapular sin flexionar codos) que se encadena al final."
+  },
+  "machine-crunch": {
+    "datasetId": "1452",
+    "match": "exact",
+    "matchNote": null
+  },
+  "machine-hip-abduction": {
+    "datasetId": "0597",
+    "match": "exact",
+    "matchNote": null
+  },
+  "machine-hip-adduction": {
+    "datasetId": "0598",
+    "match": "exact",
+    "matchNote": null
+  },
+  "machine-lat-pullover": {
+    "datasetId": "2285",
+    "match": "exact",
+    "matchNote": null
+  },
+  "machine-lateral-raise": {
+    "datasetId": "0584",
+    "match": "exact",
+    "matchNote": null
+  },
+  "machine-pulldown": {
+    "datasetId": "0579",
+    "match": "exact",
+    "matchNote": null
+  },
+  "machine-shoulder-press": {
+    "datasetId": "0869",
+    "match": "exact",
+    "matchNote": null
+  },
+  "machine-shrug": {
+    "datasetId": "0604",
+    "match": "exact",
+    "matchNote": null
+  },
+  "machine-squat": {
+    "datasetId": "0743",
+    "match": "approx",
+    "matchNote": "No hay sentadilla en máquina tipo péndulo/V-squat (con almohadillas en hombros); el GIF es hack squat en trineo, mismo patrón con otra máquina."
+  },
+  "medicine-ball-russian-twists": {
+    "datasetId": "0845",
+    "match": "approx",
+    "matchNote": "El GIF usa un disco en lugar de balón medicinal."
+  },
+  "neutral-grip-lat-pulldown": {
+    "datasetId": "0818",
+    "match": "exact",
+    "matchNote": null
+  },
+  "neutral-grip-pull-up": {
+    "datasetId": "0651",
+    "match": "exact",
+    "matchNote": null
+  },
+  "nordic-ham-curl": {
+    "datasetId": "0697",
+    "match": "exact",
+    "matchNote": null
+  },
+  "overhand-lat-pulldown": {
+    "datasetId": "0198",
+    "match": "exact",
+    "matchNote": null
+  },
+  "overhand-machine-row": {
+    "datasetId": "1350",
+    "match": "exact",
+    "matchNote": null
+  },
+  "overhead-cable-triceps-extension-bar": {
+    "datasetId": "1722",
+    "match": "exact",
+    "matchNote": null
+  },
+  "overhead-cable-triceps-extension-rope": {
+    "datasetId": "1724",
+    "match": "exact",
+    "matchNote": null
+  },
+  "paused-assisted-dip": {
+    "datasetId": "0009",
+    "match": "exact",
+    "matchNote": null
+  },
+  "paused-barbell-rdl": {
+    "datasetId": "0085",
+    "match": "exact",
+    "matchNote": null
+  },
+  "paused-db-rdl": {
+    "datasetId": "1459",
+    "match": "exact",
+    "matchNote": null
+  },
+  "pec-deck": {
+    "datasetId": "0596",
+    "match": "exact",
+    "matchNote": null
+  },
+  "pec-deck-w-integrated-partials": {
+    "datasetId": "0596",
+    "match": "exact",
+    "matchNote": null
+  },
+  "plate-loaded-neck-curls": {
+    "datasetId": null,
+    "match": "none",
+    "matchNote": "El dataset no tiene ejercicios de cuello con carga (solo estiramientos). Ver video."
+  },
+  "plate-loaded-neck-extension": {
+    "datasetId": null,
+    "match": "none",
+    "matchNote": "El dataset no tiene extensiones de cuello con disco (solo estiramientos). Ver video."
+  },
+  "plate-weighted-crunch": {
+    "datasetId": "0832",
+    "match": "approx",
+    "matchNote": "Crunch con disco pero sosteniéndolo con brazos extendidos y piernas elevadas; el PDF lo sujeta al pecho con pies en el suelo"
+  },
+  "pull-up": {
+    "datasetId": "0652",
+    "match": "exact",
+    "matchNote": null
+  },
+  "rear-delt-45-cable-flye": {
+    "datasetId": "0225",
+    "match": "approx",
+    "matchNote": "El GIF es el reverse fly bilateral en poleas cruzadas; en el PDF es a un brazo, tirando en diagonal a 45° alineando brazo y cable."
+  },
+  "reverse-cable-flye": {
+    "datasetId": "0225",
+    "match": "exact",
+    "matchNote": null
+  },
+  "reverse-cable-flye-w-integrated-partials": {
+    "datasetId": "0225",
+    "match": "exact",
+    "matchNote": null
+  },
+  "reverse-crunch": {
+    "datasetId": "0872",
+    "match": "exact",
+    "matchNote": null
+  },
+  "reverse-nordic": {
+    "datasetId": "1489",
+    "match": "approx",
+    "matchNote": "No existe reverse nordic; el GIF es sissy squat (de pie), mismo patrón de flexión de rodilla con cadera extendida. El PDF se hace de rodillas inclinándose hacia atrás."
+  },
+  "reverse-pec-deck": {
+    "datasetId": "0602",
+    "match": "exact",
+    "matchNote": null
+  },
+  "reverse-pec-deck-w-integrated-partials": {
+    "datasetId": "0602",
+    "match": "exact",
+    "matchNote": null
+  },
+  "roman-chair-leg-raise": {
+    "datasetId": "0826",
+    "match": "exact",
+    "matchNote": null
+  },
+  "rope-face-pull": {
+    "datasetId": "0233",
+    "match": "exact",
+    "matchNote": null
+  },
+  "seated-barbell-shoulder-press": {
+    "datasetId": "0091",
+    "match": "exact",
+    "matchNote": null
+  },
+  "seated-calf-raise": {
+    "datasetId": "0594",
+    "match": "exact",
+    "matchNote": null
+  },
+  "seated-db-shoulder-press": {
+    "datasetId": "0405",
+    "match": "exact",
+    "matchNote": null
+  },
+  "seated-leg-curl": {
+    "datasetId": "0599",
+    "match": "exact",
+    "matchNote": null
+  },
+  "single-arm-overhead-cable-triceps-extension": {
+    "datasetId": "1727",
+    "match": "approx",
+    "matchNote": "El GIF es de pie con agarre supino; en el video se usa agarre neutro/prono y postura de zancada."
+  },
+  "single-leg-db-hip-thrust": {
+    "datasetId": "3645",
+    "match": "approx",
+    "matchNote": "El GIF es puente a una pierna en el suelo sin peso; en el PDF la espalda alta va en banco y se sostiene una mancuerna sobre la cadera."
+  },
+  "single-leg-leg-press": {
+    "datasetId": "1425",
+    "match": "exact",
+    "matchNote": null
+  },
+  "sissy-squat": {
+    "datasetId": "1489",
+    "match": "exact",
+    "matchNote": null
+  },
+  "slow-eccentric-barbell-rdl": {
+    "datasetId": "0085",
+    "match": "exact",
+    "matchNote": null
+  },
+  "slow-eccentric-bayesian-curl": {
+    "datasetId": "0190",
+    "match": "approx",
+    "matchNote": "El GIF es curl a una mano en polea baja de pie con el brazo junto al torso; en el Bayesian se da la espalda a la polea con el brazo extendido detrás del cuerpo (mayor estiramiento del bíceps)."
+  },
+  "slow-eccentric-db-french-press": {
+    "datasetId": "2188",
+    "match": "exact",
+    "matchNote": null
+  },
+  "slow-eccentric-db-incline-curl": {
+    "datasetId": "0318",
+    "match": "exact",
+    "matchNote": null
+  },
+  "slow-eccentric-db-rdl": {
+    "datasetId": "1459",
+    "match": "exact",
+    "matchNote": null
+  },
+  "slow-eccentric-db-scott-curl": {
+    "datasetId": "0428",
+    "match": "exact",
+    "matchNote": null
+  },
+  "slow-eccentric-db-skull-crusher": {
+    "datasetId": "0351",
+    "match": "exact",
+    "matchNote": null
+  },
+  "slow-eccentric-ez-bar-skull-crusher": {
+    "datasetId": "1748",
+    "match": "exact",
+    "matchNote": null
+  },
+  "slow-eccentric-glute-ham-raise": {
+    "datasetId": "3193",
+    "match": "exact",
+    "matchNote": null
+  },
+  "smith-machine-reverse-lunge": {
+    "datasetId": "0078",
+    "match": "approx",
+    "matchNote": "El GIF usa barra libre; en el programa se hace en máquina Smith."
+  },
+  "smith-machine-shoulder-press": {
+    "datasetId": "0765",
+    "match": "exact",
+    "matchNote": null
+  },
+  "smith-machine-squat": {
+    "datasetId": "0770",
+    "match": "exact",
+    "matchNote": null
+  },
+  "spider-curl": {
+    "datasetId": "0374",
+    "match": "exact",
+    "matchNote": null
+  },
+  "standing-calf-raise": {
+    "datasetId": "0605",
+    "match": "exact",
+    "matchNote": null
+  },
+  "standing-db-arnold-press": {
+    "datasetId": "2137",
+    "match": "approx",
+    "matchNote": "Press Arnold sentado; el PDF lo hace de pie"
+  },
+  "super-rom-db-lateral-raise": {
+    "datasetId": "0334",
+    "match": "approx",
+    "matchNote": "El GIF sube solo hasta la horizontal; en Super-ROM se continúa hasta arriba de la cabeza."
+  },
+  "super-rom-overhand-cable-row": {
+    "datasetId": "0218",
+    "match": "approx",
+    "matchNote": "El GIF mantiene el torso fijo; en Super-ROM se inclina adelante en la negativa y se endereza al jalar."
+  },
+  "triceps-diverging-pressdown-long-rope-or-2-ropes": {
+    "datasetId": "0200",
+    "match": "approx",
+    "matchNote": "El GIF es pushdown con cuerda estándar; en el PDF se usa cuerda larga o 2 cuerdas separando las manos hacia afuera al bajar."
+  },
+  "triceps-pressdown-bar": {
+    "datasetId": "0201",
+    "match": "exact",
+    "matchNote": null
+  },
+  "triceps-pressdown-rope": {
+    "datasetId": "0200",
+    "match": "exact",
+    "matchNote": null
+  }
+}
