@@ -70,7 +70,7 @@ Data pipeline (only needed when source data changes):
 
 - Vercel project `gymbros-app` lives in the **Personal** scope (`personal-3e00d805`), framework `nextjs`. Production is https://gymbros-app.vercel.app.
 - Database: Neon (`gymbros-db`, region iad1/us-east-1), provisioned through the Vercel Marketplace. It injects `DATABASE_URL` (pooled; `client.ts` uses `prepare: false`) and `DATABASE_URL_UNPOOLED`.
-- Other production env vars: `BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`, `SIGNUP_CODE`, `APP_TIME_ZONE`.
+- Other production env vars: `BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`, `APP_TIME_ZONE`. `SIGNUP_CODE` is unset (open sign-up); setting it again and redeploying brings back the required invite-code field.
 - Migrations and seed are **not** run by the build. Run them from local against `DATABASE_URL_UNPOOLED`:
   `vercel env pull .cache/neon.prod.env --environment production`, then `DATABASE_URL=<unpooled> pnpm db:migrate && pnpm db:seed`.
   The seed needs `.cache/exercises-dataset`.
