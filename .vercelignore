@@ -1,0 +1,12 @@
+.cache
+.env
+.env.*
+!.env.example
+e2e-artifacts
+.next
+node_modules
+.agents
+.claude
+.idea
+skills-lock.json
+*.pdf

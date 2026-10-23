@@ -77,11 +77,11 @@ Detalle de cada corrección y de su verificación:
 
 | ID | Severidad | Título | Estado |
 |---|---|---|---|
-| R2-1 | Media (seguridad) | Una sesión cerrada se sigue aceptando hasta 5 min mediante la cookie firmada `session_data` (páginas, API y /media) | Corregido en código y tests. **Falta verificar en la app real** |
-| R2-2 | Baja | "Código de invitación" siempre aparece y dice "Opcional", aunque el servidor lo exige cuando `SIGNUP_CODE` está definido | Corregido en código y tests. **Falta verificar en la app real** |
-| R2-3 | Baja (visual) | El h1 de `/bienvenida` se desborda con un nombre largo sin espacios (scrollWidth 2149 px) | Corregido y verificado en una copia aislada (puerto 3217). Falta revisarlo en :3000 |
-| R2-4 | Baja (a11y) | Tema claro: el texto de los CTA primarios (3.76:1) y las etiquetas `fg-subtle` (3.82–4.15:1) no llegan a 4.5:1; en tema oscuro, `fg-subtle` sobre surface-2 da 4.26:1 | Corregido en código y tests. **Falta verificar en la app real** |
-| R2-5 | Baja (visual) | A 360 px el nombre del día se trunca a "Full B…" cuando aparecen los badges "Siguiente" y "En curso" | Corregido en código y harness. **Falta verificar en la app real** |
+| R2-1 | Media (seguridad) | Una sesión cerrada se sigue aceptando hasta 5 min mediante la cookie firmada `session_data` (páginas, API y /media) | Corregido y **verificado en producción** (gymbros-app.vercel.app, 2026-10-23) |
+| R2-2 | Baja | "Código de invitación" siempre aparece y dice "Opcional", aunque el servidor lo exige cuando `SIGNUP_CODE` está definido | Corregido y **verificado en producción** (gymbros-app.vercel.app, 2026-10-23) |
+| R2-3 | Baja (visual) | El h1 de `/bienvenida` se desborda con un nombre largo sin espacios (scrollWidth 2149 px) | Corregido y **verificado en producción** (gymbros-app.vercel.app, 2026-10-23) |
+| R2-4 | Baja (a11y) | Tema claro: el texto de los CTA primarios (3.76:1) y las etiquetas `fg-subtle` (3.82–4.15:1) no llegan a 4.5:1; en tema oscuro, `fg-subtle` sobre surface-2 da 4.26:1 | Corregido y **verificado en producción** (gymbros-app.vercel.app, 2026-10-23) |
+| R2-5 | Baja (visual) | A 360 px el nombre del día se trunca a "Full B…" cuando aparecen los badges "Siguiente" y "En curso" | Corregido y **verificado en producción** (gymbros-app.vercel.app, 2026-10-23) |
 
 Detalle de cada corrección y de su verificación:
 

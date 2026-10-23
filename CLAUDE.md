@@ -66,6 +66,18 @@ Data pipeline (only needed when source data changes):
 - A client store autosaves each set through `saveSet` (one save in flight per set, re-sending edits made during a save).
 - It keeps localStorage drafts keyed by workout log, which record the unit they were typed in.
 
+## Deploy (Vercel + Neon)
+
+- Vercel project `gymbros-app` lives in the **Personal** scope (`personal-3e00d805`), framework `nextjs`. Production is https://gymbros-app.vercel.app.
+- Database: Neon (`gymbros-db`, region iad1/us-east-1), provisioned through the Vercel Marketplace. It injects `DATABASE_URL` (pooled; `client.ts` uses `prepare: false`) and `DATABASE_URL_UNPOOLED`.
+- Other production env vars: `BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`, `SIGNUP_CODE`, `APP_TIME_ZONE`.
+- Migrations and seed are **not** run by the build. Run them from local against `DATABASE_URL_UNPOOLED`:
+  `vercel env pull .cache/neon.prod.env --environment production`, then `DATABASE_URL=<unpooled> pnpm db:migrate && pnpm db:seed`.
+  The seed needs `.cache/exercises-dataset`.
+- Deploys go through the CLI (`vercel deploy --prod`); `.vercelignore` keeps `.cache`/`.env*` out of the upload. Git auto-deploy isn't connected yet: Vercel's GitHub app lacks access to the repo.
+- `gymbros-app.vercel.app` is registered as a domain on someone else's Vercel project, so it can't be a project domain. It is a **manual alias**: after every production deploy run `vercel alias set <deployment-url> gymbros-app.vercel.app`. The automatic production domain is `gymbros-app-two.vercel.app`.
+- Vercel Deployment Protection (SSO) is disabled for this project. The app has its own auth, and `*.vercel.app` aliases would otherwise hit Vercel's login wall.
+
 ## Gotchas
 
 - Tunnels (ngrok) in dev need `DEV_ALLOWED_ORIGINS` (e.g. `*.ngrok-free.app`, read by `next.config.ts`) and `TRUSTED_ORIGINS` (the full https origin, read by Better Auth) in `.env`. Without them the page never hydrates.
