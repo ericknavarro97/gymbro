@@ -10,7 +10,7 @@ export default function LoginPage() {
     <div className="flex flex-col gap-6 animate-rise">
       <div>
         <p className="eyebrow text-accent-text">Pure Bodybuilding · Full Body</p>
-        <h1 className="mt-1 font-display text-[2.75rem] leading-[0.95] font-extrabold uppercase">De vuelta al fierro</h1>
+        <h1 className="mt-1 font-display text-[2.75rem] leading-[0.95] font-extrabold uppercase">Hora de entrenar</h1>
         <p className="mt-2 text-fg-muted">Entra para ver tu sesión de hoy.</p>
       </div>
       <Suspense fallback={<FormSkeleton fields={2} />}>
