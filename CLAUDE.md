@@ -74,7 +74,7 @@ Data pipeline (only needed when source data changes):
 - Migrations and seed are **not** run by the build. Run them from local against `DATABASE_URL_UNPOOLED`:
   `vercel env pull .cache/neon.prod.env --environment production`, then `DATABASE_URL=<unpooled> pnpm db:migrate && pnpm db:seed`.
   The seed needs `.cache/exercises-dataset`.
-- Deploys go through the CLI (`vercel deploy --prod`); `.vercelignore` keeps `.cache`/`.env*` out of the upload. Git auto-deploy isn't connected yet: Vercel's GitHub app lacks access to the repo.
+- The project is connected to GitHub: every push to `main` deploys to production automatically. Manual deploys use `vercel deploy --prod`; `.vercelignore` keeps `.cache`/`.env*` out of the upload.
 - `gymbros-app.vercel.app` is registered as a domain on someone else's Vercel project, so it can't be a project domain. It is a **manual alias**: after every production deploy run `vercel alias set <deployment-url> gymbros-app.vercel.app`. The automatic production domain is `gymbros-app-two.vercel.app`.
 - Vercel Deployment Protection (SSO) is disabled for this project. The app has its own auth, and `*.vercel.app` aliases would otherwise hit Vercel's login wall.
 
